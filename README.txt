@@ -1,5 +1,7 @@
 /**
-*@ coding by X.H.
+*@ Author: X.H.
+*@ Version: 0.5
+*A simple one-player tank game with random landscape generator.
 */
 
 TankBattle v0.5
